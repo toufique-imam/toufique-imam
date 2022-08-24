@@ -24,7 +24,11 @@ I’m currently working on Image restoration, including:
    Some of my Github Public Stats :octocat:
 </summary><br>
 <p>
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=toufique-imam&theme=tokyonight&show_icons=true&hide=issues">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=toufique-imam&theme=tokyonight&show_icons=true&hide=issues&count_private=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=toufique-imam&theme=tokyonight" alt="Github Streak"  /> 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufique-imam&theme=tokyonight&layout=compact&langs_count=10" alt="Github Top Lang"  /> 
+
 </p>
 
    #
