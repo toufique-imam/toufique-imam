@@ -1,4 +1,6 @@
 ## Hi there, [Toufique](https://github.com/toufique-imam) here 👋
+---
+
 [![Github Badge](https://img.shields.io/badge/-@toufique.imam-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/toufique-imam)
 [![Mail Badge](https://img.shields.io/badge/-toufique.imam@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:toufique.imam@gmail.com "Connect via Email")
 
@@ -9,10 +11,11 @@ I am a Software Engineer at Kite Game Studio, working on awesome iOS and Machine
 I’m currently working on Image restoration, including: 
 - Image Restoration and Colorization
 - Model Compression 
-- Model deployment
+- Model deployment and Server optimization
+<br><br>
 
-<a href="https://github.com/toufique-imam?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat&logo=RSS&logoColor=white"></a>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=toufique-imam)
+[![GitHub Followers](https://img.shields.io/github/followers/toufique-imam?style=social)](https://github.com/toufique-imam?tab=followers)
 <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/toufique-imam/toufique-imam?label=profile%20updated&style=flat&color=cfa81c">
 
 #
