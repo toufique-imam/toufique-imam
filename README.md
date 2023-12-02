@@ -6,12 +6,19 @@
 
 <a href="https://github.com/toufique-imam/"><img alt="GIF" src="https://github.com/toufique-imam/toufique-imam/blob/main/code.gif?raw=true" align="right" height="170" /></a>
 
-I am a Software Engineer at Kite Game Studio, working on awesome iOS and Machine learning projects.
+I am a software engineer at Kite Game Studio, working on awesome iOS and machine learning projects.
 
-I’m currently working on Image restoration, including: 
-- Image Restoration and Colorization
-- Model Compression 
-- Model deployment and Server optimization
+I’m currently working on some secret image processing tasks, which include:
+- Generate precise masking
+- Bezier curve generation
+- Realistic blending with context of surroundings
+
+Also working on @Pinky-NFT projects, which include:
+- Developing NFT contracts
+- Handle backend functions such as NFT selling, minting, image generation using Generative models.
+- Connect frontend with backend
+- Manage Dapp wallet functions
+  
 <br><br>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=toufique-imam)
